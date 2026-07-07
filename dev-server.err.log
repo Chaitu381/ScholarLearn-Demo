@@ -1,0 +1,398 @@
+[2m1:27:38 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+D:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts:38:10: ERROR: Expected ">" but found "className"
+  Plugin: [35mvite:esbuild[39m
+  File: [36mD:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts[39m:38:10
+[33m  
+  [33mExpected ">" but found "className"[33m
+  36 |  
+  37 |    return (
+  38 |      <main className="h-[calc(100vh-58px)] overflow-hidden bg-[#0d1822] px-6 py-5 text-white">
+     |            ^
+  39 |        <section className="mx-auto grid h-full max-w-[1500px] grid-cols-[minmax(0,1fr)_360px] gap-5">
+  40 |          <div className="flex min-h-0 flex-col rounded-[28px] border border-slate-700/70 bg-[#14212c] p-6 shadow-2xl">
+  [39m
+[2m1:27:38 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+D:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts:38:10: ERROR: Expected ">" but found "className"
+  Plugin: [35mvite:esbuild[39m
+  File: [36mD:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts[39m:38:10
+[33m  
+  [33mExpected ">" but found "className"[33m
+  36 |  
+  37 |    return (
+  38 |      <main className="h-[calc(100vh-58px)] overflow-hidden bg-[#0d1822] px-6 py-5 text-white">
+     |            ^
+  39 |        <section className="mx-auto grid h-full max-w-[1500px] grid-cols-[minmax(0,1fr)_360px] gap-5">
+  40 |          <div className="flex min-h-0 flex-col rounded-[28px] border border-slate-700/70 bg-[#14212c] p-6 shadow-2xl">
+  [39m
+[2m1:27:38 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+D:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts:38:10: ERROR: Expected ">" but found "className"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mD:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts[39m:38:10
+[33m  
+  [33mExpected ">" but found "className"[33m
+  36 |  
+  37 |    return (
+  38 |      <main className="h-[calc(100vh-58px)] overflow-hidden bg-[#0d1822] px-6 py-5 text-white">
+     |            ^
+  39 |        <section className="mx-auto grid h-full max-w-[1500px] grid-cols-[minmax(0,1fr)_360px] gap-5">
+  40 |          <div className="flex min-h-0 flex-col rounded-[28px] border border-slate-700/70 bg-[#14212c] p-6 shadow-2xl">
+  [39m
+      at failureErrorWithLog (D:\ScholarLearn\ScholarLearn-frontend-test\node_modules\esbuild\lib\main.js:1467:15)
+      at D:\ScholarLearn\ScholarLearn-frontend-test\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (D:\ScholarLearn\ScholarLearn-frontend-test\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (D:\ScholarLearn\ScholarLearn-frontend-test\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (D:\ScholarLearn\ScholarLearn-frontend-test\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m1:27:38 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+D:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts:38:10: ERROR: Expected ">" but found "className"
+  Plugin: [35mvite:esbuild[39m
+  File: [36mD:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts[39m:38:10
+[33m  
+  [33mExpected ">" but found "className"[33m
+  36 |  
+  37 |    return (
+  38 |      <main className="h-[calc(100vh-58px)] overflow-hidden bg-[#0d1822] px-6 py-5 text-white">
+     |            ^
+  39 |        <section className="mx-auto grid h-full max-w-[1500px] grid-cols-[minmax(0,1fr)_360px] gap-5">
+  40 |          <div className="flex min-h-0 flex-col rounded-[28px] border border-slate-700/70 bg-[#14212c] p-6 shadow-2xl">
+  [39m
+[2m1:27:38 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+D:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts:38:10: ERROR: Expected ">" but found "className"
+  Plugin: [35mvite:esbuild[39m
+  File: [36mD:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts[39m:38:10
+[33m  
+  [33mExpected ">" but found "className"[33m
+  36 |  
+  37 |    return (
+  38 |      <main className="h-[calc(100vh-58px)] overflow-hidden bg-[#0d1822] px-6 py-5 text-white">
+     |            ^
+  39 |        <section className="mx-auto grid h-full max-w-[1500px] grid-cols-[minmax(0,1fr)_360px] gap-5">
+  40 |          <div className="flex min-h-0 flex-col rounded-[28px] border border-slate-700/70 bg-[#14212c] p-6 shadow-2xl">
+  [39m
+[2m1:27:38 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+D:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts:38:10: ERROR: Expected ">" but found "className"
+  Plugin: [35mvite:esbuild[39m
+  File: [36mD:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts[39m:38:10
+[33m  
+  [33mExpected ">" but found "className"[33m
+  36 |  
+  37 |    return (
+  38 |      <main className="h-[calc(100vh-58px)] overflow-hidden bg-[#0d1822] px-6 py-5 text-white">
+     |            ^
+  39 |        <section className="mx-auto grid h-full max-w-[1500px] grid-cols-[minmax(0,1fr)_360px] gap-5">
+  40 |          <div className="flex min-h-0 flex-col rounded-[28px] border border-slate-700/70 bg-[#14212c] p-6 shadow-2xl">
+  [39m
+[2m1:27:38 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+D:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts:38:10: ERROR: Expected ">" but found "className"
+  Plugin: [35mvite:esbuild[39m
+  File: [36mD:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts[39m:38:10
+[33m  
+  [33mExpected ">" but found "className"[33m
+  36 |  
+  37 |    return (
+  38 |      <main className="h-[calc(100vh-58px)] overflow-hidden bg-[#0d1822] px-6 py-5 text-white">
+     |            ^
+  39 |        <section className="mx-auto grid h-full max-w-[1500px] grid-cols-[minmax(0,1fr)_360px] gap-5">
+  40 |          <div className="flex min-h-0 flex-col rounded-[28px] border border-slate-700/70 bg-[#14212c] p-6 shadow-2xl">
+  [39m
+[2m1:27:38 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+D:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts:38:10: ERROR: Expected ">" but found "className"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mD:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts[39m:38:10
+[33m  
+  [33mExpected ">" but found "className"[33m
+  36 |  
+  37 |    return (
+  38 |      <main className="h-[calc(100vh-58px)] overflow-hidden bg-[#0d1822] px-6 py-5 text-white">
+     |            ^
+  39 |        <section className="mx-auto grid h-full max-w-[1500px] grid-cols-[minmax(0,1fr)_360px] gap-5">
+  40 |          <div className="flex min-h-0 flex-col rounded-[28px] border border-slate-700/70 bg-[#14212c] p-6 shadow-2xl">
+  [39m
+      at failureErrorWithLog (D:\ScholarLearn\ScholarLearn-frontend-test\node_modules\esbuild\lib\main.js:1467:15)
+      at D:\ScholarLearn\ScholarLearn-frontend-test\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (D:\ScholarLearn\ScholarLearn-frontend-test\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (D:\ScholarLearn\ScholarLearn-frontend-test\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (D:\ScholarLearn\ScholarLearn-frontend-test\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m1:27:38 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+D:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts:38:10: ERROR: Expected ">" but found "className"
+  Plugin: [35mvite:esbuild[39m
+  File: [36mD:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts[39m:38:10
+[33m  
+  [33mExpected ">" but found "className"[33m
+  36 |  
+  37 |    return (
+  38 |      <main className="h-[calc(100vh-58px)] overflow-hidden bg-[#0d1822] px-6 py-5 text-white">
+     |            ^
+  39 |        <section className="mx-auto grid h-full max-w-[1500px] grid-cols-[minmax(0,1fr)_360px] gap-5">
+  40 |          <div className="flex min-h-0 flex-col rounded-[28px] border border-slate-700/70 bg-[#14212c] p-6 shadow-2xl">
+  [39m
+[2m1:29:32 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+D:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts:41:10: ERROR: Expected ">" but found "className"
+  Plugin: [35mvite:esbuild[39m
+  File: [36mD:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts[39m:41:10
+[33m  
+  [33mExpected ">" but found "className"[33m
+  39 |  
+  40 |    return (
+  41 |      <main className="h-[calc(100vh-58px)] overflow-hidden bg-[#0d1822] px-5 py-4 text-white">
+     |            ^
+  42 |        <section className="mx-auto grid h-full max-w-[1480px] grid-cols-[minmax(0,1fr)_340px] gap-4">
+  43 |          <div className="flex min-h-0 flex-col rounded-[26px] border border-slate-700/70 bg-[#14212c] p-5 shadow-2xl">
+  [39m
+[2m1:29:32 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+D:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts:41:10: ERROR: Expected ">" but found "className"
+  Plugin: [35mvite:esbuild[39m
+  File: [36mD:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts[39m:41:10
+[33m  
+  [33mExpected ">" but found "className"[33m
+  39 |  
+  40 |    return (
+  41 |      <main className="h-[calc(100vh-58px)] overflow-hidden bg-[#0d1822] px-5 py-4 text-white">
+     |            ^
+  42 |        <section className="mx-auto grid h-full max-w-[1480px] grid-cols-[minmax(0,1fr)_340px] gap-4">
+  43 |          <div className="flex min-h-0 flex-col rounded-[26px] border border-slate-700/70 bg-[#14212c] p-5 shadow-2xl">
+  [39m
+[2m1:29:32 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+D:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts:41:10: ERROR: Expected ">" but found "className"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mD:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts[39m:41:10
+[33m  
+  [33mExpected ">" but found "className"[33m
+  39 |  
+  40 |    return (
+  41 |      <main className="h-[calc(100vh-58px)] overflow-hidden bg-[#0d1822] px-5 py-4 text-white">
+     |            ^
+  42 |        <section className="mx-auto grid h-full max-w-[1480px] grid-cols-[minmax(0,1fr)_340px] gap-4">
+  43 |          <div className="flex min-h-0 flex-col rounded-[26px] border border-slate-700/70 bg-[#14212c] p-5 shadow-2xl">
+  [39m
+      at failureErrorWithLog (D:\ScholarLearn\ScholarLearn-frontend-test\node_modules\esbuild\lib\main.js:1467:15)
+      at D:\ScholarLearn\ScholarLearn-frontend-test\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (D:\ScholarLearn\ScholarLearn-frontend-test\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (D:\ScholarLearn\ScholarLearn-frontend-test\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (D:\ScholarLearn\ScholarLearn-frontend-test\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m1:29:32 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+D:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts:41:10: ERROR: Expected ">" but found "className"
+  Plugin: [35mvite:esbuild[39m
+  File: [36mD:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts[39m:41:10
+[33m  
+  [33mExpected ">" but found "className"[33m
+  39 |  
+  40 |    return (
+  41 |      <main className="h-[calc(100vh-58px)] overflow-hidden bg-[#0d1822] px-5 py-4 text-white">
+     |            ^
+  42 |        <section className="mx-auto grid h-full max-w-[1480px] grid-cols-[minmax(0,1fr)_340px] gap-4">
+  43 |          <div className="flex min-h-0 flex-col rounded-[26px] border border-slate-700/70 bg-[#14212c] p-5 shadow-2xl">
+  [39m
+[2m1:29:32 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+D:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts:41:10: ERROR: Expected ">" but found "className"
+  Plugin: [35mvite:esbuild[39m
+  File: [36mD:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts[39m:41:10
+[33m  
+  [33mExpected ">" but found "className"[33m
+  39 |  
+  40 |    return (
+  41 |      <main className="h-[calc(100vh-58px)] overflow-hidden bg-[#0d1822] px-5 py-4 text-white">
+     |            ^
+  42 |        <section className="mx-auto grid h-full max-w-[1480px] grid-cols-[minmax(0,1fr)_340px] gap-4">
+  43 |          <div className="flex min-h-0 flex-col rounded-[26px] border border-slate-700/70 bg-[#14212c] p-5 shadow-2xl">
+  [39m
+[2m1:29:32 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+D:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts:41:10: ERROR: Expected ">" but found "className"
+  Plugin: [35mvite:esbuild[39m
+  File: [36mD:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts[39m:41:10
+[33m  
+  [33mExpected ">" but found "className"[33m
+  39 |  
+  40 |    return (
+  41 |      <main className="h-[calc(100vh-58px)] overflow-hidden bg-[#0d1822] px-5 py-4 text-white">
+     |            ^
+  42 |        <section className="mx-auto grid h-full max-w-[1480px] grid-cols-[minmax(0,1fr)_340px] gap-4">
+  43 |          <div className="flex min-h-0 flex-col rounded-[26px] border border-slate-700/70 bg-[#14212c] p-5 shadow-2xl">
+  [39m
+[2m1:29:32 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+D:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts:41:10: ERROR: Expected ">" but found "className"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mD:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts[39m:41:10
+[33m  
+  [33mExpected ">" but found "className"[33m
+  39 |  
+  40 |    return (
+  41 |      <main className="h-[calc(100vh-58px)] overflow-hidden bg-[#0d1822] px-5 py-4 text-white">
+     |            ^
+  42 |        <section className="mx-auto grid h-full max-w-[1480px] grid-cols-[minmax(0,1fr)_340px] gap-4">
+  43 |          <div className="flex min-h-0 flex-col rounded-[26px] border border-slate-700/70 bg-[#14212c] p-5 shadow-2xl">
+  [39m
+      at failureErrorWithLog (D:\ScholarLearn\ScholarLearn-frontend-test\node_modules\esbuild\lib\main.js:1467:15)
+      at D:\ScholarLearn\ScholarLearn-frontend-test\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (D:\ScholarLearn\ScholarLearn-frontend-test\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (D:\ScholarLearn\ScholarLearn-frontend-test\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (D:\ScholarLearn\ScholarLearn-frontend-test\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m1:29:32 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+D:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts:41:10: ERROR: Expected ">" but found "className"
+  Plugin: [35mvite:esbuild[39m
+  File: [36mD:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts[39m:41:10
+[33m  
+  [33mExpected ">" but found "className"[33m
+  39 |  
+  40 |    return (
+  41 |      <main className="h-[calc(100vh-58px)] overflow-hidden bg-[#0d1822] px-5 py-4 text-white">
+     |            ^
+  42 |        <section className="mx-auto grid h-full max-w-[1480px] grid-cols-[minmax(0,1fr)_340px] gap-4">
+  43 |          <div className="flex min-h-0 flex-col rounded-[26px] border border-slate-700/70 bg-[#14212c] p-5 shadow-2xl">
+  [39m
+[2m1:29:32 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+D:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts:41:10: ERROR: Expected ">" but found "className"
+  Plugin: [35mvite:esbuild[39m
+  File: [36mD:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts[39m:41:10
+[33m  
+  [33mExpected ">" but found "className"[33m
+  39 |  
+  40 |    return (
+  41 |      <main className="h-[calc(100vh-58px)] overflow-hidden bg-[#0d1822] px-5 py-4 text-white">
+     |            ^
+  42 |        <section className="mx-auto grid h-full max-w-[1480px] grid-cols-[minmax(0,1fr)_340px] gap-4">
+  43 |          <div className="flex min-h-0 flex-col rounded-[26px] border border-slate-700/70 bg-[#14212c] p-5 shadow-2xl">
+  [39m
+[2m1:29:32 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+D:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts:41:10: ERROR: Expected ">" but found "className"
+  Plugin: [35mvite:esbuild[39m
+  File: [36mD:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts[39m:41:10
+[33m  
+  [33mExpected ">" but found "className"[33m
+  39 |  
+  40 |    return (
+  41 |      <main className="h-[calc(100vh-58px)] overflow-hidden bg-[#0d1822] px-5 py-4 text-white">
+     |            ^
+  42 |        <section className="mx-auto grid h-full max-w-[1480px] grid-cols-[minmax(0,1fr)_340px] gap-4">
+  43 |          <div className="flex min-h-0 flex-col rounded-[26px] border border-slate-700/70 bg-[#14212c] p-5 shadow-2xl">
+  [39m
+[2m1:29:32 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+D:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts:41:10: ERROR: Expected ">" but found "className"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mD:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts[39m:41:10
+[33m  
+  [33mExpected ">" but found "className"[33m
+  39 |  
+  40 |    return (
+  41 |      <main className="h-[calc(100vh-58px)] overflow-hidden bg-[#0d1822] px-5 py-4 text-white">
+     |            ^
+  42 |        <section className="mx-auto grid h-full max-w-[1480px] grid-cols-[minmax(0,1fr)_340px] gap-4">
+  43 |          <div className="flex min-h-0 flex-col rounded-[26px] border border-slate-700/70 bg-[#14212c] p-5 shadow-2xl">
+  [39m
+      at failureErrorWithLog (D:\ScholarLearn\ScholarLearn-frontend-test\node_modules\esbuild\lib\main.js:1467:15)
+      at D:\ScholarLearn\ScholarLearn-frontend-test\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (D:\ScholarLearn\ScholarLearn-frontend-test\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (D:\ScholarLearn\ScholarLearn-frontend-test\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (D:\ScholarLearn\ScholarLearn-frontend-test\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m1:29:32 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+D:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts:41:10: ERROR: Expected ">" but found "className"
+  Plugin: [35mvite:esbuild[39m
+  File: [36mD:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts[39m:41:10
+[33m  
+  [33mExpected ">" but found "className"[33m
+  39 |  
+  40 |    return (
+  41 |      <main className="h-[calc(100vh-58px)] overflow-hidden bg-[#0d1822] px-5 py-4 text-white">
+     |            ^
+  42 |        <section className="mx-auto grid h-full max-w-[1480px] grid-cols-[minmax(0,1fr)_340px] gap-4">
+  43 |          <div className="flex min-h-0 flex-col rounded-[26px] border border-slate-700/70 bg-[#14212c] p-5 shadow-2xl">
+  [39m
+[2m1:29:32 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+D:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts:41:10: ERROR: Expected ">" but found "className"
+  Plugin: [35mvite:esbuild[39m
+  File: [36mD:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts[39m:41:10
+[33m  
+  [33mExpected ">" but found "className"[33m
+  39 |  
+  40 |    return (
+  41 |      <main className="h-[calc(100vh-58px)] overflow-hidden bg-[#0d1822] px-5 py-4 text-white">
+     |            ^
+  42 |        <section className="mx-auto grid h-full max-w-[1480px] grid-cols-[minmax(0,1fr)_340px] gap-4">
+  43 |          <div className="flex min-h-0 flex-col rounded-[26px] border border-slate-700/70 bg-[#14212c] p-5 shadow-2xl">
+  [39m
+[2m1:29:32 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+D:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts:41:10: ERROR: Expected ">" but found "className"
+  Plugin: [35mvite:esbuild[39m
+  File: [36mD:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts[39m:41:10
+[33m  
+  [33mExpected ">" but found "className"[33m
+  39 |  
+  40 |    return (
+  41 |      <main className="h-[calc(100vh-58px)] overflow-hidden bg-[#0d1822] px-5 py-4 text-white">
+     |            ^
+  42 |        <section className="mx-auto grid h-full max-w-[1480px] grid-cols-[minmax(0,1fr)_340px] gap-4">
+  43 |          <div className="flex min-h-0 flex-col rounded-[26px] border border-slate-700/70 bg-[#14212c] p-5 shadow-2xl">
+  [39m
+[2m1:29:32 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+D:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts:41:10: ERROR: Expected ">" but found "className"
+  Plugin: [35mvite:esbuild[39m
+  File: [36mD:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts[39m:41:10
+[33m  
+  [33mExpected ">" but found "className"[33m
+  39 |  
+  40 |    return (
+  41 |      <main className="h-[calc(100vh-58px)] overflow-hidden bg-[#0d1822] px-5 py-4 text-white">
+     |            ^
+  42 |        <section className="mx-auto grid h-full max-w-[1480px] grid-cols-[minmax(0,1fr)_340px] gap-4">
+  43 |          <div className="flex min-h-0 flex-col rounded-[26px] border border-slate-700/70 bg-[#14212c] p-5 shadow-2xl">
+  [39m
+[2m1:29:32 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+D:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts:41:10: ERROR: Expected ">" but found "className"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mD:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts[39m:41:10
+[33m  
+  [33mExpected ">" but found "className"[33m
+  39 |  
+  40 |    return (
+  41 |      <main className="h-[calc(100vh-58px)] overflow-hidden bg-[#0d1822] px-5 py-4 text-white">
+     |            ^
+  42 |        <section className="mx-auto grid h-full max-w-[1480px] grid-cols-[minmax(0,1fr)_340px] gap-4">
+  43 |          <div className="flex min-h-0 flex-col rounded-[26px] border border-slate-700/70 bg-[#14212c] p-5 shadow-2xl">
+  [39m
+      at failureErrorWithLog (D:\ScholarLearn\ScholarLearn-frontend-test\node_modules\esbuild\lib\main.js:1467:15)
+      at D:\ScholarLearn\ScholarLearn-frontend-test\node_modules\esbuild\lib\main.js:736:50
+      at responseCallbacks.<computed> (D:\ScholarLearn\ScholarLearn-frontend-test\node_modules\esbuild\lib\main.js:603:9)
+      at handleIncomingPacket (D:\ScholarLearn\ScholarLearn-frontend-test\node_modules\esbuild\lib\main.js:658:12)
+      at Socket.readFromStdout (D:\ScholarLearn\ScholarLearn-frontend-test\node_modules\esbuild\lib\main.js:581:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:563:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+      at Readable.push (node:internal/streams/readable:394:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m1:29:32 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+D:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts:41:10: ERROR: Expected ">" but found "className"
+  Plugin: [35mvite:esbuild[39m
+  File: [36mD:/ScholarLearn/ScholarLearn-frontend-test/src/features/student/data/codeconnectScheduledTests.ts[39m:41:10
+[33m  
+  [33mExpected ">" but found "className"[33m
+  39 |  
+  40 |    return (
+  41 |      <main className="h-[calc(100vh-58px)] overflow-hidden bg-[#0d1822] px-5 py-4 text-white">
+     |            ^
+  42 |        <section className="mx-auto grid h-full max-w-[1480px] grid-cols-[minmax(0,1fr)_340px] gap-4">
+  43 |          <div className="flex min-h-0 flex-col rounded-[26px] border border-slate-700/70 bg-[#14212c] p-5 shadow-2xl">
+  [39m
